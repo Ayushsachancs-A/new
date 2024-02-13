@@ -1,3 +1,3 @@
 # new
 <br>
-author: Ayush Sachaan
+author: Ayush Sachaan(name)
